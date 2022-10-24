@@ -1,5 +1,5 @@
 # ZOOOV
 
-Командный проект разработчиков школы <a href="http://itgirlschool.com/">ITGirls</a>
+Командный проект разработчиков школы <a href="http://itgirlschool.com/">ITGirls.</a> <br>
 for now, this website has only mobile version <br>
 на данный момент сайт доступен только в мобильной версии
